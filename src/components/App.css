@@ -1,0 +1,20 @@
+.canvas-container {
+  height: 50vh;
+}
+
+#preloadLobsterFont {
+  font-family: "Lobster";
+  opacity: 0;
+  height: 0;
+  width: 0;
+  display: inline-block;
+}
+
+
+#preloadSedgwickAveFont {
+  font-family: "SedgwickAve";
+  opacity: 0;
+  height: 0;
+  width: 0;
+  display: inline-block;
+}

@@ -11,7 +11,14 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+
+@font-face {
+  font-family: 'Lobster';
+  src: local('Lobster'), url(./fonts/Lobster-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'SedgwickAve';
+  src: local('SedgwickAve'), url(./fonts/SedgwickAve-Regular.ttf) format('truetype');
 }
