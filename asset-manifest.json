@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/mothers-day-poc/static/css/main.dcc9a92b.css",
-    "main.js": "/mothers-day-poc/static/js/main.31825fd8.js",
+    "main.css": "/mothers-day-poc/static/css/main.b79d2318.css",
+    "main.js": "/mothers-day-poc/static/js/main.029ca533.js",
     "static/js/592.38501e49.chunk.js": "/mothers-day-poc/static/js/592.38501e49.chunk.js",
     "static/media/Lobster-Regular.ttf": "/mothers-day-poc/static/media/Lobster-Regular.03c38496322925fec242.ttf",
     "static/media/layout_vertical.png": "/mothers-day-poc/static/media/layout_vertical.d011aef51a5c21d19373.png",
     "static/media/layout_horizontal.png": "/mothers-day-poc/static/media/layout_horizontal.355bdb8901f437f1af44.png",
     "static/media/SedgwickAve-Regular.ttf": "/mothers-day-poc/static/media/SedgwickAve-Regular.9df9bc09e6b60c74033c.ttf",
     "index.html": "/mothers-day-poc/index.html",
-    "main.dcc9a92b.css.map": "/mothers-day-poc/static/css/main.dcc9a92b.css.map",
-    "main.31825fd8.js.map": "/mothers-day-poc/static/js/main.31825fd8.js.map",
+    "main.b79d2318.css.map": "/mothers-day-poc/static/css/main.b79d2318.css.map",
+    "main.029ca533.js.map": "/mothers-day-poc/static/js/main.029ca533.js.map",
     "592.38501e49.chunk.js.map": "/mothers-day-poc/static/js/592.38501e49.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dcc9a92b.css",
-    "static/js/main.31825fd8.js"
+    "static/css/main.b79d2318.css",
+    "static/js/main.029ca533.js"
   ]
 }
