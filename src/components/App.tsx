@@ -45,7 +45,7 @@ function App() {
     if (!file || !message) return;
     setCanvasHeight(900);
     setCanvasWidth(1600);
-    setCanvasClassName("w-full");
+    setCanvasClassName("w-full max-h-full");
 
     const canvas = document.getElementById("canvas") as HTMLCanvasElement;
     const ctx = canvas.getContext("2d");
@@ -82,7 +82,7 @@ function App() {
     if (!file || !message) return;
     setCanvasHeight(1920);
     setCanvasWidth(1080);
-    setCanvasClassName("h-full");
+    setCanvasClassName("h-full max-w-full");
 
     const canvas = document.getElementById("canvas") as HTMLCanvasElement;
     const ctx = canvas.getContext("2d");
